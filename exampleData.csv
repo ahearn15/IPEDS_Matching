@@ -1,0 +1,934 @@
+College,State,Financial GPA,Financial Grade
+Stanford University,CA,4.5,A+
+Massachusetts Institute of Technology,MA,4.5,A+
+University of Notre Dame,IN,4.5,A+
+Princeton University,NJ,4.5,A+
+University of Pennsylvania,PA,4.5,A+
+Yale University,CT,4.5,A+
+Northwestern University,IL,4.5,A+
+Dartmouth College,NH,4.5,A+
+Columbia University in the City of New York,NY,4.5,A+
+Williams College,MA,4.5,A+
+Cornell University,NY,4.5,A+
+California Institute of Technology,CA,4.5,A+
+Rice University,TX,4.5,A+
+Hillsdale College,MI,4.5,A+
+Carnegie Mellon University,PA,4.5,A+
+Washington and Lee University,VA,4.48,A+
+Wellesley College,MA,4.48,A+
+Brown University,RI,4.46,A+
+Duke University,NC,4.45,A+
+Washington University in St. Louis,MO,4.45,A+
+Carleton College,MN,4.4,A+
+Emory University,GA,4.34,A+
+Davidson College,NC,4.32,A+
+Barnard College,NY,4.31,A+
+Bates College,ME,4.31,A+
+Harvard University,MA,4.31,A+
+Berea College,KY,4.28,A+
+Grinnell College,IA,4.28,A+
+Bowdoin College,ME,4.22,A+
+The Juilliard School,NY,4.22,A+
+Johns Hopkins University,MD,4.21,A+
+Claremont McKenna College,CA,4.2,A+
+University of Richmond,VA,4.19,A+
+Wake Forest University,NC,4.19,A+
+Wesleyan University,CT,4.16,A
+University of Chicago,IL,4.12,A
+Colby College,ME,4.09,A
+College of the Ozarks,MO,4.04,A
+Kansas City Art Institute,MO,4.04,A
+Mount Holyoke College,MA,4.03,A
+Brigham Young University,UT,4.01,A
+Swarthmore College,PA,4.01,A
+Tufts University,MA,4.01,A
+The New England Conservatory of Music,MA,3.99,A
+Hamilton College,NY,3.98,A
+Haverford College,PA,3.97,A
+Vanderbilt University,TN,3.94,A
+Pomona College,CA,3.92,A
+The College of Idaho,ID,3.92,A
+Brigham Young University-Hawaii,HI,3.9,A
+Cooper Union for the Advancement of Science and Art,NY,3.89,A
+Harvey Mudd College,CA,3.88,A
+Amherst College,MA,3.87,A
+Berry College,GA,3.86,A
+Scripps College,CA,3.84,A
+Wofford College,SC,3.83,A-
+Colorado College,CO,3.79,A-
+Hollins University,VA,3.79,A-
+University of Southern California,CA,3.78,A-
+Gallaudet University,DC,3.77,A-
+Lafayette College,PA,3.74,A-
+Lehigh University,PA,3.72,A-
+Wheaton College,IL,3.71,A-
+University of the Ozarks,AR,3.67,A-
+Bucknell University,PA,3.65,A-
+College of the Holy Cross,MA,3.64,A-
+Boston College,MA,3.62,A-
+Kenyon College,OH,3.61,A-
+Vassar College,NY,3.61,A-
+Case Western Reserve University,OH,3.59,A-
+Rhode Island School of Design,RI,3.58,A-
+Furman University,SC,3.55,A-
+Colgate University,NY,3.52,A-
+Skidmore College,NY,3.52,A-
+Goldey-Beacom College,DE,3.47,B+
+Midwestern Baptist Theological Seminary,MO,3.46,B+
+Rush University,IL,3.46,B+
+SewaneeóThe University of the South,TN,3.44,B+
+Lawrence University,WI,3.43,B+
+Pitzer College,CA,3.43,B+
+Union College,NY,3.43,B+
+Bryn Mawr College,PA,3.42,B+
+DePauw University,IN,3.42,B+
+Agnes Scott College,GA,3.41,B+
+Baptist College of Health Sciences,TN,3.4,B+
+Dewey University-Hato Rey,PR,3.4,B+
+Johnson University,TN,3.4,B+
+Middlebury College,VT,3.4,B+
+Oberlin College,OH,3.4,B+
+Wabash College,IN,3.38,B+
+Saint John's University,MN,3.37,B+
+Davis & Elkins College,WV,3.36,B+
+Smith College,MA,3.36,B+
+Transylvania University,KY,3.36,B+
+Indiana Institute of Technology,IN,3.35,B+
+Randolph College,VA,3.35,B+
+Southern Methodist University,TX,3.35,B+
+St. Olaf College,MN,3.35,B+
+Texas Christian University,TX,3.34,B+
+St. Lawrence University,NY,3.33,B+
+University of Rochester,NY,3.33,B+
+California Institute of the Arts,CA,3.31,B+
+Centre College,KY,3.31,B+
+St. Louis College of Pharmacy,MO,3.3,B+
+Trinity College,CT,3.29,B+
+Villanova University,PA,3.28,B+
+Alice Lloyd College,KY,3.27,B+
+Reed College,OR,3.27,B+
+Whitman College,WA,3.27,B+
+Babson College,MA,3.25,B+
+Saint Vincent College,PA,3.25,B+
+New York University,NY,3.24,B+
+Occidental College,CA,3.23,B+
+Queens University of Charlotte,NC,3.23,B+
+Brigham Young University-Idaho,ID,3.22,B+
+Carlos Albizu University-Miami,FL,3.21,B+
+Liberty University,VA,3.21,B+
+Blackburn College,IL,3.2,B+
+Gustavus Adolphus College,MN,3.2,B+
+Spelman College,GA,3.2,B+
+Boston University,MA,3.17,B+
+New Orleans Baptist Theological Seminary,LA,3.15,B
+University of Tulsa,OK,3.15,B
+Saint Mary's College,IN,3.14,B
+MCPHS University,MA,3.13,B
+Franklin & Marshall College,PA,3.12,B
+Brandeis University,MA,3.09,B
+American University,DC,3.08,B
+Berklee College of Music,MA,3.07,B
+McMurry University,TX,3.07,B
+Art Center College of Design,CA,3.06,B
+Earlham College,IN,3.06,B
+Rust College,MS,3.06,B
+Gettysburg College,PA,3.04,B
+Mount Carmel College of Nursing,OH,3.04,B
+William Carey University,MS,3.01,B
+Central Methodist University-College of Liberal Arts and Sciences,MO,3,B
+Fisk University,TN,3,B
+The Southern Baptist Theological Seminary,KY,3,B
+Trinity University,TX,2.98,B
+Southwestern Adventist University,TX,2.97,B
+Tabor College,KS,2.97,B
+Dordt College,IA,2.95,B
+Everglades University,FL,2.95,B
+Howard University,DC,2.95,B
+Minneapolis College of Art and Design,MN,2.95,B
+Santa Clara University,CA,2.95,B
+Worcester Polytechnic Institute,MA,2.95,B
+Fairfield University,CT,2.94,B
+John Brown University,AR,2.94,B
+Muhlenberg College,PA,2.94,B
+Dickinson College,PA,2.93,B
+Southwestern University,TX,2.93,B
+Tulane University,LA,2.92,B
+Goshen College,IN,2.91,B
+Loma Linda University,CA,2.91,B
+Moody Bible Institute,IL,2.91,B
+Pepperdine University,CA,2.91,B
+College of Saint Benedict,MN,2.9,B
+Columbia International University,SC,2.9,B
+York College of Pennsylvania,PA,2.9,B
+Alfred University,NY,2.89,B
+Connecticut College,CT,2.89,B
+Lycoming College,PA,2.89,B
+Elon University,NC,2.88,B
+Georgetown University,DC,2.88,B
+Northwood University,MI,2.88,B
+Nebraska Methodist College of Nursing & Allied Health,NE,2.86,B
+Apex School of Theology,NC,2.84,B
+Macalester College,MN,2.84,B
+University of Holy Cross,LA,2.84,B
+Martin Luther College,MN,2.83,B
+University of Dayton,OH,2.83,B
+Amberton University,TX,2.82,B-
+George Washington University,DC,2.82,B-
+Rochester Institute of Technology,NY,2.81,B-
+University of Dubuque,IA,2.81,B-
+University of Puget Sound,WA,2.81,B-
+Morehouse College,GA,2.8,B-
+Rhodes College,TN,2.8,B-
+Southern New Hampshire University,NH,2.79,B-
+The College of Wooster,OH,2.79,B-
+Knox College,IL,2.78,B-
+Aquinas College,MI,2.77,B-
+Columbia College Chicago,IL,2.77,B-
+Denison University,OH,2.77,B-
+College for Creative Studies,MI,2.76,B-
+Park University,MO,2.76,B-
+Allegheny College,PA,2.75,B-
+Belmont University,TN,2.75,B-
+Oakwood University,AL,2.75,B-
+Asbury University,KY,2.74,B-
+Yeshivath Viznitz,NY,2.74,B-
+Hendrix College,AR,2.73,B-
+Iona College,NY,2.73,B-
+Centenary College of Louisiana,LA,2.72,B-
+Creighton University,NE,2.72,B-
+Mount Marty College,SD,2.72,B-
+Nebraska Wesleyan University,NE,2.72,B-
+Northwestern College,IA,2.72,B-
+Wilmington University,DE,2.72,B-
+Midway University,KY,2.71,B-
+Chapman University,CA,2.7,B-
+Hofstra University,NY,2.7,B-
+Kalamazoo College,MI,2.69,B-
+Logan University,MO,2.69,B-
+Syracuse University,NY,2.69,B-
+Anderson University,SC,2.68,B-
+Biola University,CA,2.68,B-
+Mercy College,NY,2.68,B-
+University of Jamestown,ND,2.68,B-
+University of San Diego,CA,2.68,B-
+Washington College,MD,2.68,B-
+Concordia College at Moorhead,MN,2.67,B-
+Lake Forest College,IL,2.66,B-
+Catholic University of America,DC,2.65,B-
+Embry-Riddle Aeronautical University-Daytona Beach,FL,2.65,B-
+Saint Louis University,MO,2.65,B-
+University of Denver,CO,2.65,B-
+Yeshiva University,NY,2.65,B-
+Ave Maria University,FL,2.64,B-
+University of Portland,OR,2.64,B-
+Bentley University,MA,2.63,B-
+Texas Lutheran University,TX,2.63,B-
+Gonzaga University,WA,2.62,B-
+University of Miami,FL,2.62,B-
+Lindenwood University,MO,2.61,B-
+Lubbock Christian University,TX,2.61,B-
+MGH Institute of Health Professions,MA,2.61,B-
+National University,CA,2.61,B-
+Palmer College of Chiropractic,IA,2.61,B-
+Beloit College,WI,2.6,B-
+Hastings College,NE,2.6,B-
+Marist College,NY,2.6,B-
+Samuel Merritt University,CA,2.6,B-
+Southeastern Baptist Theological Seminary,NC,2.6,B-
+Miles College,AL,2.59,B-
+Randolph-Macon College,VA,2.59,B-
+University of Dallas,TX,2.59,B-
+University of St. Thomas,MN,2.59,B-
+Augustana College,IL,2.58,B-
+Mount Saint Mary's University,CA,2.58,B-
+Lees-McRae College,NC,2.57,B-
+Carroll University,WI,2.56,B-
+Hampton University,VA,2.55,B-
+Ohio Wesleyan University,OH,2.55,B-
+Rose-Hulman Institute of Technology,IN,2.55,B-
+Spalding University,KY,2.55,B-
+Clark University,MA,2.54,B-
+Franciscan Missionaries of Our Lady University,LA,2.54,B-
+Meredith College,NC,2.54,B-
+Hampden-Sydney College,VA,2.53,B-
+Trinity Washington University,DC,2.53,B-
+Wayland Baptist University,TX,2.53,B-
+Wheaton College,MA,2.53,B-
+Sterling College,KS,2.52,B-
+Covenant College,GA,2.51,B-
+Ringling College of Art and Design,FL,2.5,B-
+Albion College,MI,2.5,C+
+Emory & Henry College,VA,2.5,C+
+Hodges University,FL,2.5,C+
+Mount Aloysius College,PA,2.5,C+
+Bard College,NY,2.49,C+
+Cambridge College,MA,2.49,C+
+Grove City College,PA,2.49,C+
+Hardin-Simmons University,TX,2.49,C+
+Luther Rice College & Seminary,GA,2.49,C+
+University of Saint Francis-Fort Wayne,IN,2.49,C+
+Converse College,SC,2.48,C+
+Dakota Wesleyan University,SD,2.48,C+
+Holy Names University,CA,2.48,C+
+Illinois Wesleyan University,IL,2.48,C+
+Point Loma Nazarene University,CA,2.48,C+
+Savannah College of Art and Design,GA,2.48,C+
+Westmont College,CA,2.48,C+
+Augsburg University,MN,2.47,C+
+Carlos Albizu University-San Juan,PR,2.47,C+
+Life Pacific College,CA,2.47,C+
+Millsaps College,MS,2.47,C+
+University of St. Thomas,TX,2.47,C+
+Abilene Christian University,TX,2.46,C+
+Baylor University,TX,2.46,C+
+Cairn University,PA,2.46,C+
+California Baptist University,CA,2.44,C+
+Maryville University of Saint Louis,MO,2.44,C+
+Doane University,NE,2.43,C+
+Missouri Valley College,MO,2.43,C+
+Norwich University,VT,2.43,C+
+Palm Beach Atlantic University,FL,2.43,C+
+University of Northwestern-St Paul,MN,2.43,C+
+Albertus Magnus College,CT,2.42,C+
+Milligan College,TN,2.42,C+
+Northeastern University,MA,2.42,C+
+St. Catherine University,MN,2.42,C+
+Talladega College,AL,2.42,C+
+Bethany Lutheran College,MN,2.41,C+
+Carthage College,WI,2.41,C+
+Rocky Mountain College,MT,2.41,C+
+Clark Atlanta University,GA,2.4,C+
+East Texas Baptist University,TX,2.4,C+
+Emerson College,MA,2.4,C+
+Linfield College-McMinnville Campus,OR,2.4,C+
+Mount St Joseph University,OH,2.4,C+
+Pratt Institute-Main,NY,2.4,C+
+Saint Anselm College,NH,2.4,C+
+Stonehill College,MA,2.4,C+
+Toccoa Falls College,GA,2.4,C+
+Trine University,IN,2.4,C+
+University of Mount Union,OH,2.4,C+
+Milwaukee School of Engineering,WI,2.39,C+
+Stevens Institute of Technology,NJ,2.39,C+
+Texas Wesleyan University,TX,2.39,C+
+Mills College,CA,2.38,C+
+Edgewood College,WI,2.37,C+
+Misericordia University,PA,2.37,C+
+Mount Vernon Nazarene University,OH,2.37,C+
+Saint Joseph's University,PA,2.37,C+
+Bradley University,IL,2.36,C+
+Franciscan University of Steubenville,OH,2.36,C+
+Goucher College,MD,2.36,C+
+Lakeland University,WI,2.36,C+
+Messiah College,PA,2.36,C+
+Monmouth College,IL,2.36,C+
+Charleston Southern University,SC,2.35,C+
+Northwest Nazarene University,ID,2.35,C+
+Ripon College,WI,2.35,C+
+Schreiner University,TX,2.35,C+
+University of New England,ME,2.35,C+
+Warren Wilson College,NC,2.35,C+
+Ithaca College,NY,2.34,C+
+Kettering University,MI,2.34,C+
+Olivet College,MI,2.34,C+
+Parker University,TX,2.34,C+
+Quinnipiac University,CT,2.33,C+
+St. John Fisher College,NY,2.33,C+
+Ursinus College,PA,2.33,C+
+Buena Vista University,IA,2.32,C+
+Columbia College,MO,2.32,C+
+Maryville College,TN,2.32,C+
+St. Ambrose University,IA,2.32,C+
+Taylor University,IN,2.32,C+
+Walla Walla University,WA,2.32,C+
+Washington & Jefferson College,PA,2.32,C+
+Wittenberg University,OH,2.32,C+
+Luther College,IA,2.31,C+
+McPherson College,KS,2.31,C+
+Seattle Pacific University,WA,2.31,C+
+St. John's University-New York,NY,2.31,C+
+Boricua College,NY,2.3,C+
+City University of Seattle,WA,2.3,C+
+Howard Payne University,TX,2.3,C+
+Westminster College,MO,2.3,C+
+Alma College,MI,2.29,C+
+Clarkson College,NE,2.29,C+
+Concordia University-Saint Paul,MN,2.29,C+
+Hobart and William Smith Colleges,NY,2.29,C+
+Louisiana College,LA,2.29,C+
+Piedmont College,GA,2.29,C+
+University of San Francisco,CA,2.29,C+
+Westminster College,PA,2.29,C+
+Albany College of Pharmacy and Health Sciences,NY,2.28,C+
+Cornerstone University,MI,2.28,C+
+Moravian College,PA,2.28,C+
+National University of Health Sciences,IL,2.28,C+
+Pontifical Catholic University of Puerto Rico-Ponce,PR,2.28,C+
+The University of the Arts,PA,2.28,C+
+Calvin College,MI,2.27,C+
+Cedar Crest College,PA,2.27,C+
+Flagler College-St Augustine,FL,2.27,C+
+St. Mary's University,TX,2.27,C+
+Tougaloo College,MS,2.27,C+
+University of Providence,MT,2.27,C+
+University of Western States,OR,2.27,C+
+D'Youville College,NY,2.26,C+
+Johnson C. Smith University,NC,2.26,C+
+Loyola University Chicago,IL,2.26,C+
+Manhattan College,NY,2.26,C+
+Providence College,RI,2.26,C+
+Barnes-Jewish College Goldfarb School of Nursing,MO,2.25,C+
+Indiana Wesleyan University-Marion,IN,2.25,C+
+Seattle University,WA,2.25,C+
+Central Yeshiva Tomchei Tmimim Lubavitz,NY,2.24,C+
+Cornell College,IA,2.24,C+
+Ouachita Baptist University,AR,2.24,C+
+Virginia Union University,VA,2.24,C+
+Viterbo University,WI,2.24,C+
+Freed-Hardeman University,TN,2.23,C+
+Hanover College,IN,2.23,C+
+Lawrence Technological University,MI,2.23,C+
+Lincoln University,CA,2.23,C+
+Madonna University,MI,2.23,C+
+Mount Mercy University,IA,2.23,C+
+Otterbein University,OH,2.23,C+
+Sacred Heart University,CT,2.23,C+
+Xavier University,OH,2.23,C+
+Friends University,KS,2.22,C+
+Lyon College,AR,2.22,C+
+AdventHealth University,FL,2.21,C+
+Bellevue University,NE,2.21,C+
+Bennington College,VT,2.21,C+
+Cleveland Institute of Art,OH,2.21,C+
+College of Our Lady of the Elms,MA,2.21,C+
+Franklin College,IN,2.21,C+
+Grace Christian University,MI,2.21,C+
+High Point University,NC,2.21,C+
+Millikin University,IL,2.21,C+
+Rollins College,FL,2.21,C+
+South Baylo University,CA,2.21,C+
+Tuskegee University,AL,2.21,C+
+Drake University,IA,2.2,C+
+Illinois College,IL,2.2,C+
+Loyola Marymount University,CA,2.2,C+
+University of La Verne,CA,2.2,C+
+Hope College,MI,2.19,C+
+John Carroll University,OH,2.19,C+
+Mount Mary University,WI,2.19,C+
+Nazareth College,NY,2.19,C+
+North Park University,IL,2.18,C+
+Oglethorpe University,GA,2.18,C+
+Susquehanna University,PA,2.18,C+
+Bay Path University,MA,2.17,C+
+Franklin University,OH,2.17,C+
+Muskingum University,OH,2.17,C+
+The College of Saint Scholastica,MN,2.17,C+
+Bryant University,RI,2.16,C
+Christian Brothers University,TN,2.16,C
+Colorado Christian University,CO,2.16,C
+Le Moyne College,NY,2.16,C
+Rivier University,NH,2.16,C
+Walsh College,MI,2.16,C
+Washington Adventist University,MD,2.16,C
+Atlantic University College,PR,2.15,C
+Augustana University,SD,2.15,C
+California Lutheran University,CA,2.15,C
+Carroll College,MT,2.15,C
+Endicott College,MA,2.15,C
+La Sierra University,CA,2.15,C
+Notre Dame de Namur University,CA,2.15,C
+Saint Mary's University of Minnesota,MN,2.15,C
+Webster University,MO,2.15,C
+Butler University,IN,2.14,C
+College of Saint Mary,NE,2.14,C
+Lesley University,MA,2.14,C
+Los Angeles Pacific University,CA,2.14,C
+Loyola University Maryland,MD,2.14,C
+MidAmerica Nazarene University,KS,2.14,C
+Touro University Worldwide,CA,2.14,C
+George Fox University,OR,2.13,C
+Marquette University,WI,2.13,C
+Sarah Lawrence College,NY,2.13,C
+University of Saint Mary,KS,2.13,C
+University of the Pacific,CA,2.13,C
+University of the Sciences,PA,2.13,C
+Whitworth University,WA,2.13,C
+Wingate University,NC,2.13,C
+DePaul University,IL,2.12,C
+Maharishi University of Management,IA,2.12,C
+Gordon College,MA,2.11,C
+Jefferson (Philadelphia University + Thomas Jefferson University),PA,2.11,C
+Mercer University,GA,2.11,C
+Oklahoma Baptist University,OK,2.11,C
+Palo Alto University,CA,2.11,C
+Metropolitan College of New York,NY,2.1,C
+Willamette University,OR,2.1,C
+Bridgewater College,VA,2.09,C
+Dallas Baptist University,TX,2.09,C
+Elizabethtown College,PA,2.09,C
+Uta Mesivta of Kiryas Joel,NY,2.09,C
+LeTourneau University,TX,2.08,C
+Multnomah University,OR,2.08,C
+St. Norbert College,WI,2.08,C
+Walsh University,OH,2.08,C
+California College of the Arts,CA,2.07,C
+Hope International University,CA,2.07,C
+Ohio Northern University,OH,2.07,C
+Salve Regina University,RI,2.07,C
+McDaniel College,MD,2.06,C
+Siena Heights University,MI,2.06,C
+Western Governors University,UT,2.06,C
+Assumption College,MA,2.04,C
+Clarke University,IA,2.04,C
+Curry College,MA,2.04,C
+Marian University,IN,2.04,C
+Maryland Institute College of Art,MD,2.04,C
+Salem College,NC,2.04,C
+Southern Adventist University,TN,2.04,C
+St. Francis College,NY,2.04,C
+University of Scranton,PA,2.04,C
+Wisconsin Lutheran College,WI,2.04,C
+Duquesne University,PA,2.03,C
+Houghton College,NY,2.03,C
+Kansas Wesleyan University,KS,2.03,C
+Laguna College of Art and Design,CA,2.03,C
+Lebanon Valley College,PA,2.03,C
+Roanoke College,VA,2.03,C
+Universidad Adventista de las Antillas,PR,2.03,C
+Universidad Politecnica de Puerto Rico,PR,2.03,C
+Cedarville University,OH,2.02,C
+Concordia University-Irvine,CA,2.02,C
+Hampshire College,MA,2.02,C
+Saint Augustine's University,NC,2.02,C
+The University of Tampa,FL,2.02,C
+Urbana University,OH,2.02,C
+Valparaiso University,IN,2.02,C
+Wagner College,NY,2.02,C
+Alverno College,WI,2.01,C
+Cumberland University,TN,2.01,C
+Niagara University,NY,2.01,C
+Ursuline College,OH,2.01,C
+Wesleyan College,GA,2.01,C
+Georgian Court University,NJ,2,C
+Loyola University New Orleans,LA,2,C
+Marietta College,OH,2,C
+Monmouth University,NJ,2,C
+St. Edward's University,TX,2,C
+St. Thomas Aquinas College,NY,2,C
+Trinity International University-Illinois,IL,2,C
+Universidad Central de Bayamon,PR,2,C
+Allen University,SC,1.99,C
+Hult International Business School,MA,1.99,C
+Oral Roberts University,OK,1.99,C
+Roosevelt University,IL,1.99,C
+University of Lynchburg,VA,1.99,C
+Andrews University,MI,1.98,C
+Brenau University,GA,1.98,C
+Neumann University,PA,1.98,C
+Northland College,WI,1.98,C
+Eastern Mennonite University,VA,1.97,C
+National Louis University,IL,1.97,C
+Point University,GA,1.97,C
+William Penn University,IA,1.97,C
+Wilson College,PA,1.97,C
+Brandman University,CA,1.96,C
+Concordia University-Nebraska,NE,1.96,C
+Menlo College,CA,1.96,C
+North Central College,IL,1.96,C
+Shenandoah University,VA,1.96,C
+Stetson University,FL,1.96,C
+The Master's University and Seminary,CA,1.96,C
+University of the Cumberlands,KY,1.96,C
+Austin College,TX,1.95,C
+Central Christian College of Kansas,KS,1.95,C
+Lee University,TN,1.95,C
+Life University,GA,1.94,C
+Northwest University,WA,1.94,C
+Reinhardt University,GA,1.94,C
+University of Mary Hardin-Baylor,TX,1.94,C
+University of Redlands,CA,1.94,C
+Webber International University,FL,1.94,C
+Whittier College,CA,1.94,C
+Brescia University,KY,1.93,C
+Geneva College,PA,1.93,C
+Greenville University,IL,1.93,C
+Holy Family University,PA,1.93,C
+Juniata College,PA,1.93,C
+Kentucky Wesleyan College,KY,1.93,C
+Limestone College,SC,1.93,C
+Newman University,KS,1.93,C
+Simpson College,IA,1.93,C
+University of St Francis,IL,1.93,C
+Carlow University,PA,1.92,C
+Concordia University-Wisconsin,WI,1.92,C
+Fairleigh Dickinson University-Metropolitan Campus,NJ,1.92,C
+Heidelberg University,OH,1.92,C
+Presentation College,SD,1.92,C
+Trevecca Nazarene University,TN,1.92,C
+Xavier University of Louisiana,LA,1.92,C
+Beth Medrash Govoha,NJ,1.91,C
+Coker College,SC,1.91,C
+Edward Waters College,FL,1.91,C
+Florida Southern College,FL,1.91,C
+Gwynedd Mercy University,PA,1.91,C
+North Greenville University,SC,1.91,C
+Westminster College,UT,1.91,C
+Bastyr University,WA,1.9,C
+Bethel University,TN,1.9,C
+Capitol Technology University,MD,1.89,C
+Catawba College,NC,1.89,C
+Concordia University-Ann Arbor,MI,1.89,C
+DeSales University,PA,1.89,C
+Harding University,AR,1.89,C
+Ohio Christian University,OH,1.89,C
+University of New Haven,CT,1.89,C
+Lincoln Memorial University,TN,1.88,C
+Lipscomb University,TN,1.88,C
+Marymount University,VA,1.88,C
+Mid-America Christian University,OK,1.88,C
+Wentworth Institute of Technology,MA,1.88,C
+Bryan College-Dayton,TN,1.87,C
+Hiram College,OH,1.87,C
+Peirce College,PA,1.87,C
+Springfield College,MA,1.87,C
+Adelphi University,NY,1.86,C
+Campbell University,NC,1.86,C
+Greensboro College,NC,1.86,C
+The New School,NY,1.86,C
+Union Institute & University,OH,1.86,C
+Young Harris College,GA,1.86,C
+King's College,PA,1.85,C
+Lane College,TN,1.85,C
+Lewis & Clark College,OR,1.85,C
+Mount Saint Mary College,NY,1.85,C
+Robert Morris University Illinois,IL,1.85,C
+Seton Hall University,NJ,1.85,C
+Southern Virginia University,VA,1.85,C
+Lasell College,MA,1.84,C
+Manchester University,IN,1.84,C
+Marian University,WI,1.84,C
+Marymount California University,CA,1.83,C-
+Oklahoma Christian University,OK,1.83,C-
+Suffolk University,MA,1.83,C-
+Union College,NE,1.83,C-
+Houston Baptist University,TX,1.82,C-
+Morris College,SC,1.82,C-
+Fisher College,MA,1.81,C-
+Point Park University,PA,1.81,C-
+Southern California University of Health Sciences,CA,1.81,C-
+St Bonaventure University,NY,1.81,C-
+Ferrum College,VA,1.8,C-
+Hartwick College,NY,1.8,C-
+Molloy College,NY,1.8,C-
+Simmons University,MA,1.8,C-
+Bluffton University,OH,1.79,C-
+Our Lady of the Lake University,TX,1.79,C-
+Virginia Wesleyan University,VA,1.79,C-
+Baldwin Wallace University,OH,1.78,C-
+Elmhurst College,IL,1.78,C-
+Emmanuel College,MA,1.78,C-
+North Central University,MN,1.78,C-
+Paul Smith's College of Arts and Science,NY,1.78,C-
+University of the Incarnate Word,TX,1.78,C-
+Arcadia University,PA,1.77,C-
+Cabrini University,PA,1.77,C-
+Guilford College,NC,1.77,C-
+Dillard University,LA,1.76,C-
+Aurora University,IL,1.75,C-
+Gannon University,PA,1.75,C-
+Lewis University,IL,1.75,C-
+Lynn University,FL,1.75,C-
+Southern Wesleyan University,SC,1.75,C-
+Calumet College of St. Joseph,IN,1.74,C-
+University of Mary,ND,1.74,C-
+Cardinal Stritch University,WI,1.73,C-
+Eckerd College,FL,1.73,C-
+Fresno Pacific University,CA,1.73,C-
+New England College,NH,1.73,C-
+Otis College of Art and Design,CA,1.73,C-
+Southwest Baptist University,MO,1.73,C-
+Union College,KY,1.73,C-
+Fordham University,NY,1.72,C-
+Husson University,ME,1.72,C-
+LaGrange College,GA,1.72,C-
+Northwestern Health Sciences University,MN,1.72,C-
+Rockford University,IL,1.72,C-
+St. Andrews University,NC,1.72,C-
+Stillman College,AL,1.72,C-
+Harrisburg University of Science and Technology,PA,1.71,C-
+LeMoyne-Owen College,TN,1.71,C-
+Midland University,NE,1.71,C-
+Mississippi College,MS,1.71,C-
+Wartburg College,IA,1.71,C-
+Manhattan School of Music,NY,1.7,C-
+Maranatha Baptist University,WI,1.7,C-
+Samford University,AL,1.7,C-
+Bacone College,OK,1.69,C-
+Grand View University,IA,1.69,C-
+Naropa University,CO,1.69,C-
+Albright College,PA,1.68,C-
+Capital University,OH,1.68,C-
+Florida Memorial University,FL,1.68,C-
+Hood College,MD,1.68,C-
+Nova Southeastern University,FL,1.68,C-
+Hawaii Pacific University,HI,1.67,C-
+Lancaster Bible College,PA,1.67,C-
+Missouri Baptist University,MO,1.67,C-
+Southwestern Assemblies of God University,TX,1.67,C-
+Stevenson University,MD,1.67,C-
+Chaminade University of Honolulu,HI,1.66,C-
+Oklahoma Wesleyan University,OK,1.66,C-
+Saint Michael's College,VT,1.65,C-
+Touro College,NY,1.65,C-
+University of Saint Joseph,CT,1.65,C-
+Livingstone College,NC,1.64,C-
+Merrimack College,MA,1.64,C-
+University of the Southwest,NM,1.64,C-
+Vanguard University of Southern California,CA,1.64,C-
+Drexel University,PA,1.63,C-
+Erskine College,SC,1.63,C-
+Excelsior College,NY,1.63,C-
+Stevens-Henager College,UT,1.63,C-
+United Talmudical Seminary,NY,1.63,C-
+University of Sioux Falls,SD,1.63,C-
+Champlain College,VT,1.62,C-
+Davenport University,MI,1.62,C-
+Johnson & Wales University-Providence,RI,1.62,C-
+Roberts Wesleyan College,NY,1.62,C-
+The University of Findlay,OH,1.62,C-
+University of Mobile,AL,1.62,C-
+Jarvis Christian College,TX,1.61,C-
+Thomas University,GA,1.61,C-
+William Woods University,MO,1.61,C-
+Oakland City University,IN,1.6,C-
+Saint Francis University,PA,1.6,C-
+Universidad Ana G. Mendez-Cupey Campus,PR,1.6,C-
+Wilmington College,OH,1.6,C-
+Alvernia University,PA,1.59,C-
+Defiance College,OH,1.59,C-
+Emmanuel College,GA,1.59,C-
+Philander Smith College,AR,1.59,C-
+Rensselaer Polytechnic Institute,NY,1.59,C-
+Rochester College,MI,1.59,C-
+San Diego Christian College,CA,1.59,C-
+University of Hartford,CT,1.59,C-
+Wilkes University,PA,1.59,C-
+Gardner-Webb University,NC,1.58,C-
+Bethany College,WV,1.57,C-
+North American University,TX,1.57,C-
+Presbyterian College,SC,1.57,C-
+Barton College,NC,1.56,C-
+Crown College,MN,1.56,C-
+Golden Gate University,CA,1.56,C-
+Saint Mary-of-the-Woods College,IN,1.56,C-
+Seton Hill University,PA,1.56,C-
+University of Charleston,WV,1.56,C-
+College of Saint Elizabeth,NJ,1.55,C-
+Drury University,MO,1.55,C-
+New York Institute of Technology,NY,1.55,C-
+Regis University,CO,1.55,C-
+Huston-Tillotson University,TX,1.54,C-
+Mars Hill University,NC,1.54,C-
+Siena College,NY,1.54,C-
+University of Indianapolis,IN,1.54,C-
+William Peace University,NC,1.54,C-
+Chowan University,NC,1.53,C-
+Notre Dame of Maryland University,MD,1.53,C-
+Pacific Lutheran University,WA,1.53,C-
+Roseman University of Health Sciences,NV,1.53,C-
+Universidad Ana G. Mendez-Carolina Campus,PR,1.53,C-
+Columbus College of Art and Design,OH,1.52,C-
+Heritage University,WA,1.52,C-
+Unity College,ME,1.52,C-
+William Jewell College,MO,1.52,C-
+Benedictine College,KS,1.51,C-
+Bethel University,MN,1.51,C-
+Bloomfield College,NJ,1.51,C-
+Clarkson University,NY,1.51,C-
+Fontbonne University,MO,1.51,C-
+Tiffin University,OH,1.51,C-
+Universidad Ana G. Mendez-Gurabo Campus,PR,1.51,C-
+Universidad del Sagrado Corazon,PR,1.51,C-
+Central College,IA,1.5,C-
+Dominican College of Blauvelt,NY,1.5,C-
+Lourdes University,OH,1.5,C-
+Montreat College,NC,1.5,C-
+Pacific University,OR,1.5,C-
+St. Thomas University,FL,1.5,C-
+Arizona Christian University,AZ,1.5,D
+Nichols College,MA,1.5,D
+Birmingham Southern College,AL,1.49,D
+Canisius College,NY,1.49,D
+Faulkner University,AL,1.49,D
+John F. Kennedy University,CA,1.49,D
+La Roche College,PA,1.49,D
+Medaille College,NY,1.49,D
+Central Baptist College,AR,1.48,D
+Saint Leo University,FL,1.48,D
+Saint Mary's College of California,CA,1.48,D
+Tennessee Wesleyan University,TN,1.48,D
+University of Detroit Mercy,MI,1.48,D
+Bellarmine University,KY,1.47,D
+Northwest Christian University,OR,1.47,D
+Saint Peter's University,NJ,1.47,D
+Texas College,TX,1.47,D
+Bethany College,KS,1.46,D
+Oklahoma City University,OK,1.45,D
+Boston Architectural College,MA,1.44,D
+Dominican University,IL,1.44,D
+SUM Bible College and Theological Seminary,CA,1.44,D
+College of Mount Saint Vincent,NY,1.43,D
+Culver-Stockton College,MO,1.43,D
+Huntingdon College,AL,1.43,D
+Illinois Institute of Technology,IL,1.43,D
+Loras College,IA,1.43,D
+Manhattanville College,NY,1.43,D
+Morningside College,IA,1.43,D
+Campbellsville University,KY,1.42,D
+La Salle University,PA,1.42,D
+Ashland University,OH,1.41,D
+Rosemont College,PA,1.41,D
+William Jessup University,CA,1.41,D
+Bethel College-Indiana,IN,1.4,D
+Milwaukee Institute of Art & Design,WI,1.4,D
+Grace College and Theological Seminary,IN,1.39,D
+Keystone College,PA,1.39,D
+California Institute of Integral Studies,CA,1.38,D
+Delaware Valley University,PA,1.38,D
+Marymount Manhattan College,NY,1.38,D
+Pace University,NY,1.38,D
+Hannibal-LaGrange University,MO,1.37,D
+Huntington University,IN,1.37,D
+Methodist University,NC,1.37,D
+Robert Morris University,PA,1.37,D
+Trinity Christian College,IL,1.37,D
+University of Evansville,IN,1.37,D
+West Virginia Wesleyan College,WV,1.37,D
+Becker College,MA,1.36,D
+Centenary University,NJ,1.36,D
+Regent University,VA,1.36,D
+Stephens College,MO,1.36,D
+Daemen College,NY,1.35,D
+Felician University,NJ,1.35,D
+King University,TN,1.35,D
+Lincoln Christian University,IL,1.35,D
+Mount St. Mary's University,MD,1.35,D
+National University of Natural Medicine,OR,1.35,D
+The College of New Rochelle,NY,1.35,D
+Western New England University,MA,1.35,D
+Concordia University-Texas,TX,1.34,D
+Franklin Pierce University,NH,1.34,D
+Cazenovia College,NY,1.33,D
+Spring Arbor University,MI,1.32,D
+Bethune-Cookman University,FL,1.31,D
+Claflin University,SC,1.31,D
+Graceland University-Lamoni,IA,1.31,D
+Southeastern University,FL,1.31,D
+Avila University,MO,1.3,D
+Eastern Nazarene College,MA,1.3,D
+Eastern University,PA,1.3,D
+Averett University,VA,1.29,D
+Immaculata University,PA,1.29,D
+Anna Maria College,MA,1.28,D
+Martin Methodist College,TN,1.28,D
+Simpson University,CA,1.28,D
+Thomas College,ME,1.28,D
+Lindsey Wilson College,KY,1.27,D
+Mitchell College,CT,1.27,D
+Truett McConnell University,GA,1.27,D
+Thiel College,PA,1.25,D
+Baker University,KS,1.24,D
+Hilbert College,NY,1.24,D
+Mercyhurst University,PA,1.23,D
+Upper Iowa University,IA,1.23,D
+Waynesburg University,PA,1.23,D
+Azusa Pacific University,CA,1.22,D
+Touro University Nevada,NV,1.22,D
+University of Valley Forge,PA,1.22,D
+Brevard College,NC,1.21,D
+Pacific Union College,CA,1.21,D
+Spring Hill College,AL,1.21,D
+Union University,TN,1.21,D
+Hamline University,MN,1.2,D
+Tusculum University,TN,1.2,D
+Concordia College-New York,NY,1.19,D
+Eureka College,IL,1.19,D
+McKendree University,IL,1.19,D
+Woodbury University,CA,1.19,D
+Bluefield College,VA,1.18,D
+Ohio Dominican University,OH,1.18,D
+Drew University,NJ,1.17,D
+Southwestern College,KS,1.17,D
+University of Mount Olive,NC,1.17,D
+Warner University,FL,1.17,D
+Dominican University of California,CA,1.16,D
+Mary Baldwin University,VA,1.16,D
+Concordia University-Chicago,IL,1.15,D
+Newberry College,SC,1.15,D
+Roger Williams University,RI,1.15,D
+American International College,MA,1.14,D
+Chatham University,PA,1.14,D
+Saint Martin's University,WA,1.14,D
+Shaw University,NC,1.14,D
+St. Joseph's College-New York,NY,1.14,D
+Barry University,FL,1.13,D
+Carson-Newman University,TN,1.13,D
+Clarks Summit University,PA,1.13,D
+Cornish College of the Arts,WA,1.13,D
+Southern Nazarene University,OK,1.13,D
+Olivet Nazarene University,IL,1.12,D
+Saint Joseph's College of Maine,ME,1.12,D
+Belhaven University,MS,1.11,D
+Marywood University,PA,1.11,D
+Shorter University,GA,1.11,D
+The College of Saint Rose,NY,1.11,D
+Caldwell University,NJ,1.09,D
+Coe College,IA,1.09,D
+Colby-Sawyer College,NH,1.08,D
+Evangel University,MO,1.07,D
+Nyack College,NY,1.07,D
+Briar Cliff University,IA,1.06,D
+Malone University,OH,1.06,D
+Southwestern Christian University,OK,1.06,D
+Columbia College,SC,1.05,D
+Georgetown College,KY,1.05,D
+Rider University,NJ,1.05,D
+University of Bridgeport,CT,1.05,D
+Alderson Broaddus University,WV,1.04,D
+Chestnut Hill College,PA,1.04,D
+Regis College,MA,1.04,D
+Florida Institute of Technology,FL,1.03,D
+Keuka College,NY,1.03,D
+MacMurray College,IL,1.03,D
+Benedictine University,IL,1.02,D
+Pfeiffer University,NC,1.02,D
+Cincinnati Christian University,OH,1.01,D
+Judson University,IL,1.01,D
+Quincy University,IL,1.01,D
+Thomas More College,KY,1,D
+Corban University,OR,0.99,D
+Holy Cross College,IN,0.99,D
+Rockhurst University,MO,0.99,D
+Lake Erie College,OH,0.98,D
+Lenoir-Rhyne University,NC,0.98,D
+Sierra Nevada College,NV,0.98,D
+Belmont Abbey College,NC,0.97,D
+Saint Xavier University,IL,0.96,D
+Anderson University,IN,0.95,D
+Utica College,NY,0.93,D
+Wesley College,DE,0.92,D
+Wiley College,TX,0.91,D
+Benedict College,SC,0.9,D
+Concordia University-Portland,OR,0.89,D
+Widener University,PA,0.89,D
+North Carolina Wesleyan College,NC,0.87,D
+The Sage Colleges,NY,0.86,D
+Caribbean University-Bayamon,PR,0.85,D
+Ottawa University-Ottawa,KS,0.85,D
+Caribbean University-Ponce,PR,0.84,D
+Elmira College,NY,0.83,D
+Jacksonville University,FL,0.82,D
+Adrian College,MI,0.81,D
+Wheeling Jesuit University,WV,0.77,D
+University of Pikeville,KY,0.74,D
+Notre Dame College,OH,0.72,D
